@@ -6,4 +6,8 @@
   .sideBar-parent {
     @apply w-48 bg-white rounded p-5 m-3 dark:bg-slate-900 dark:text-slate-100;
   }
+
+  .navbar-li {
+    @apply my-2 ml-2;
+  }
 }

@@ -9,13 +9,13 @@ const Sidebar = () => {
             <div className="sideBar-parent">
                 <div className="flex flex-col">
                     <ul>
-                        <li className="my-2 ml-2">
+                        <li className="navbar-li">
                             <button onClick={switchDarkMode}>switch</button>
                         </li>
-                        <li>test</li>
-                        <li>test</li>
-                        <li>test</li>
-                        <li>test</li>
+                        <li className="navbar-li">test</li>
+                        <li className="navbar-li">test</li>
+                        <li className="navbar-li">test</li>
+                        <li className="navbar-li">test</li>
                     </ul>
                 </div>
             </div>
